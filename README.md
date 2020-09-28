@@ -8,7 +8,7 @@
   </a>
 </p>
 
-> <h1 align=&#34;center&#34;>A customizable pop up where we can position the close button, would be able to set border and set box-shadow and background color. 👋</h1>
+> <h4 align=&#34;center&#34;>A customizable pop up where we can position the close button, would be able to set border and set box-shadow and background color. 👋</h4>
 
 
 ## Install
